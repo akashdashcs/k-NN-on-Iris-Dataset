@@ -1,5 +1,3 @@
-# data-mining
-
 ## k-NN on Iris Dataset
 
 ### Description
